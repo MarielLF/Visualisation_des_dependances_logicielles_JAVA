@@ -32,7 +32,8 @@ Ce projet vise à simplifier l'analyse et la gestion des dépendances logicielle
 
 Ajoutez le plugin comme dépendance dans votre projet Maven :
 
-```xml
+```
+xml
 <build>
   <plugins>
     <plugin>
@@ -41,19 +42,23 @@ Ajoutez le plugin comme dépendance dans votre projet Maven :
       <version>0.0.1-SNAPSHOT</version>
     </plugin>
   </plugins>
-</build>```
+</build>
+```
 
-## **Utilisation**
+### **Utilisation**
 
 Exécutez la commande suivante dans votre terminal ou IDE :
 
-```bash
+```
+bash
 mvn com.dependence.plugins:cytoscape-dot-plugin:generate-graph -DrepoUrl=<URL_du_projet_Git>
+```
 
 ### **Exemple :**
 
 ```bash
 mvn com.dependence.plugins:cytoscape-dot-plugin:generate-graph -DrepoUrl=https://github.com/jhy/jsoup
+```
 
 ### **Résultats :**
 
@@ -91,6 +96,7 @@ mvn com.dependence.plugins:cytoscape-dot-plugin:generate-graph -DrepoUrl=https:/
 
    ```bash
    git clone https://github.com/MarielLF/Visualisation_des_dependances_logicielles_JAVA.git
+   ```
 ## **Liens utiles**
 
 - "[Cytoscape](https://cytoscape.org/)"
