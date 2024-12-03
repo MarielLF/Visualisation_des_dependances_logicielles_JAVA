@@ -72,7 +72,7 @@ mvn com.dependence.plugins:cytoscape-dot-plugin:generate-graph -DrepoUrl=https:/
 
 - **Projet jsoup** :
 
-  *"Capture d’écran à insérer ici."*
+  ![Graph final de Cytoscape pour le projet jsoup](images/cytoscape-jsoup-final.PNG)
 
 - **Projet GraphHopper** :
 
