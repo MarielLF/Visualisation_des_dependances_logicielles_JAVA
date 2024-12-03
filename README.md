@@ -62,9 +62,9 @@ mvn com.dependence.plugins:cytoscape-dot-plugin:generate-graph -DrepoUrl=https:/
 
 ### **Résultats :**
 
-- "Un fichier `.dot` contenant les dépendances du projet."
-- "Un fichier CSV coloré généré automatiquement."
-- "Cytoscape s'ouvre avec le graphe généré."
+- Un fichier `.dot` contenant les dépendances du projet.
+- Un fichier CSV coloré généré automatiquement.
+- Cytoscape s'ouvre avec le graphe généré.
 
 ---
 
@@ -82,15 +82,15 @@ mvn com.dependence.plugins:cytoscape-dot-plugin:generate-graph -DrepoUrl=https:/
 
 ## **Perspectives futures**
 
-- "Intégration des numéros de versions dans les graphes."
-- "Support d’autres outils de gestion de dépendances comme Gradle."
-- "Génération de graphes interactifs avec des technologies web."
+- Intégration des numéros de versions dans les graphes.
+- Support d’autres outils de gestion de dépendances comme Gradle.
+- Génération de graphes interactifs avec des technologies web.
 
 ---
 
 ## **Contribuer**
 
-"Les contributions sont les bienvenues ! Suivez les étapes suivantes pour contribuer :"
+Les contributions sont les bienvenues ! Suivez les étapes suivantes pour contribuer :
 
 1. **Clonez le projet :**
 
@@ -99,7 +99,7 @@ mvn com.dependence.plugins:cytoscape-dot-plugin:generate-graph -DrepoUrl=https:/
    ```
 ## **Liens utiles**
 
-- "[Cytoscape](https://cytoscape.org/)"
-- "[Maven](https://maven.apache.org/)"
-- "[Exemple de plugin Maven](https://www.baeldung.com/maven-plugin)"
+- [Cytoscape](https://cytoscape.org/)
+- [Maven](https://maven.apache.org/)
+- [Exemple de plugin Maven](https://www.baeldung.com/maven-plugin)
 
