@@ -41,7 +41,7 @@ Ajoutez le plugin comme dépendance dans votre projet Maven :
       <version>0.0.1-SNAPSHOT</version>
     </plugin>
   </plugins>
-</build>
+</build>```
 
 ## **Utilisation**
 
