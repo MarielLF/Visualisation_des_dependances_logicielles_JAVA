@@ -76,7 +76,7 @@ mvn com.dependence.plugins:cytoscape-dot-plugin:generate-graph -DrepoUrl=https:/
 
 - **Projet GraphHopper** :
 
-  *"Capture d’écran à insérer ici."*
+  ![Graph avec couleurs en mode hiérarchique](images/cytoscape(graph-colors-hierarchical).PNG)
 
 ---
 
