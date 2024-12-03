@@ -50,7 +50,6 @@ xml
 Exécutez la commande suivante dans votre terminal ou IDE :
 
 ```
-bash
 mvn com.dependence.plugins:cytoscape-dot-plugin:generate-graph -DrepoUrl=<URL_du_projet_Git>
 ```
 
