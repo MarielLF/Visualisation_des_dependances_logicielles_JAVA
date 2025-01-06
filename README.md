@@ -102,6 +102,8 @@ Les contributions sont les bienvenues ! Suivez les étapes suivantes pour contri
 - [Maven](https://maven.apache.org/)
 - [Exemple de plugin Maven](https://www.baeldung.com/maven-plugin)
 
+---
+
 ## **Rapport hebdomadaire**
 
 ### **Semaine 1 (01/10/2024)**
@@ -140,4 +142,8 @@ J'ai rendu le plugin plus générique, permettant son utilisation avec n'importe
 
 J'ai finalisé le projet en améliorant la présentation des graphiques dans Cytoscape, en appliquant un design circulaire et en ajustant l'espacement entre les nœuds. J'ai également poussé le plugin sur GitHub Packages, permettant son utilisation en tant que dépendance dans d'autres projets Maven. J'ai validé son fonctionnement avec différents dépôts et complété la documentation dans un fichier README.md.
 
+---
 
+## **Rapport hebdomadaire**
+
+[Visualisation des dépendences](images/(Visualisation des dépendances logicielles en JAVA).PPTX)
