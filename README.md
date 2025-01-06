@@ -144,6 +144,9 @@ J'ai finalisé le projet en améliorant la présentation des graphiques dans Cyt
 
 ---
 
-## **Rapport hebdomadaire**
+## Présentation
 
-[Visualisation des dépendences](images/(Visualisation des dépendances logicielles en JAVA).PPTX)
+Vous pouvez consulter la présentation complète ici :
+
+[Visualisation des dépendances](images/Visualisation%20des%20dépendances%20logicielles%20en%20JAVA.PPTX)
+
